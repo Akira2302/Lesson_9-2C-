@@ -1,0 +1,15 @@
+C:\Users\Светлана\С# задания\Урок 9, задание 2\bin\Debug\net6.0\Урок 9, задание 2.exe
+C:\Users\Светлана\С# задания\Урок 9, задание 2\bin\Debug\net6.0\Урок 9, задание 2.deps.json
+C:\Users\Светлана\С# задания\Урок 9, задание 2\bin\Debug\net6.0\Урок 9, задание 2.runtimeconfig.json
+C:\Users\Светлана\С# задания\Урок 9, задание 2\bin\Debug\net6.0\Урок 9, задание 2.dll
+C:\Users\Светлана\С# задания\Урок 9, задание 2\bin\Debug\net6.0\Урок 9, задание 2.pdb
+C:\Users\Светлана\С# задания\Урок 9, задание 2\obj\Debug\net6.0\Урок 9, задание 2.csproj.AssemblyReference.cache
+C:\Users\Светлана\С# задания\Урок 9, задание 2\obj\Debug\net6.0\Урок 9, задание 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Светлана\С# задания\Урок 9, задание 2\obj\Debug\net6.0\Урок 9, задание 2.AssemblyInfoInputs.cache
+C:\Users\Светлана\С# задания\Урок 9, задание 2\obj\Debug\net6.0\Урок 9, задание 2.AssemblyInfo.cs
+C:\Users\Светлана\С# задания\Урок 9, задание 2\obj\Debug\net6.0\Урок 9, задание 2.csproj.CoreCompileInputs.cache
+C:\Users\Светлана\С# задания\Урок 9, задание 2\obj\Debug\net6.0\Урок 9, задание 2.dll
+C:\Users\Светлана\С# задания\Урок 9, задание 2\obj\Debug\net6.0\refint\Урок 9, задание 2.dll
+C:\Users\Светлана\С# задания\Урок 9, задание 2\obj\Debug\net6.0\Урок 9, задание 2.pdb
+C:\Users\Светлана\С# задания\Урок 9, задание 2\obj\Debug\net6.0\Урок 9, задание 2.genruntimeconfig.cache
+C:\Users\Светлана\С# задания\Урок 9, задание 2\obj\Debug\net6.0\ref\Урок 9, задание 2.dll
