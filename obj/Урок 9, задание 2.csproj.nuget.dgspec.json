@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Светлана\\С# задания\\Урок 9, задание 2\\Урок 9, задание 2.csproj": {}
+    "c:\\Users\\Светлана\\С# задания\\Урок 9, задание 2\\Урок 9, задание 2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Светлана\\С# задания\\Урок 9, задание 2\\Урок 9, задание 2.csproj": {
+    "c:\\Users\\Светлана\\С# задания\\Урок 9, задание 2\\Урок 9, задание 2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Светлана\\С# задания\\Урок 9, задание 2\\Урок 9, задание 2.csproj",
+        "projectUniqueName": "c:\\Users\\Светлана\\С# задания\\Урок 9, задание 2\\Урок 9, задание 2.csproj",
         "projectName": "Урок 9, задание 2",
-        "projectPath": "C:\\Users\\Светлана\\С# задания\\Урок 9, задание 2\\Урок 9, задание 2.csproj",
+        "projectPath": "c:\\Users\\Светлана\\С# задания\\Урок 9, задание 2\\Урок 9, задание 2.csproj",
         "packagesPath": "C:\\Users\\Светлана\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Светлана\\С# задания\\Урок 9, задание 2\\obj\\",
+        "outputPath": "c:\\Users\\Светлана\\С# задания\\Урок 9, задание 2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Светлана\\AppData\\Roaming\\NuGet\\NuGet.Config"
